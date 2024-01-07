@@ -1,0 +1,24 @@
+PODS:
+  - Alamofire (5.4.3)
+  - SwiftLocation/Core (5.1.0)
+  - SwiftyJSON (4.3.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.4)
+  - SwiftLocation/Core
+  - SwiftyJSON (~> 4.0)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - SwiftLocation
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: e447a2774a40c996748296fa2c55112fdbbc42f9
+  SwiftLocation: 83e0ea75a1969cee3a1197e2b7095603fc23fde5
+  SwiftyJSON: 6faa0040f8b59dead0ee07436cbf76b73c08fd08
+
+PODFILE CHECKSUM: f4778ce0d0527c70e300db711b4762d7a5e2c87d
+
+COCOAPODS: 1.10.2
